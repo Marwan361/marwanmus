@@ -1,4 +1,4 @@
-﻿token=OTIwMDgzNjA5NzQ5MTg4Njg4.YbfMog._i7IRQZk9I3eEn_ubTjfPiTIpko
+﻿token=OTIwMDgzNjA5NzQ5MTg4Njg4.YbfMog.SeKqGrZrmI5AzOKzNChJu_PsgAo
 owner=930844765115785237
 prefix= 2
 game= Marwan Mohammed
