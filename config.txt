@@ -1,0 +1,6 @@
+﻿token=OTIwMDgzNjA5NzQ5MTg4Njg4.YbfMog.dueYueGuouJzeNSoZf8XkBuqD58
+owner=930844765115785237
+prefix= 2
+game= Marwan Mohammed
+stayinchannel=true
+songinstatus=true 
